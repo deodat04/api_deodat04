@@ -13,7 +13,7 @@ Ce projet est une API (Application Programming Interface) qui permet de gérer u
     Cloner le projet à partir du dépôt GitHub.
     Assurez-vous que le serveur Wamp est en cours d'exécution.
     Exécutez l'API en utilisant un IDE compatible avec Java et Spring Boot, tel que Spring Tool Suite (STS).
-    L'API sera accessible à l'adresse http://localhost:8080/produitApp/.
+    L'API sera accessible à l'adresse http://localhost:8080/produit/.
 
 * Endpoints de l'API
 
